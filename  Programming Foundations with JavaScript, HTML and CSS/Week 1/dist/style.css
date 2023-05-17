@@ -6,3 +6,8 @@ body {
   align-self: center;
   color: rgb(96, 96, 96);
 }
+
+#bold {
+  font-weight: bold;
+  color: blueviolet;
+}
